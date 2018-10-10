@@ -1,4 +1,4 @@
-# SamMobile Combinations
+# Samsung Combinations
 Developed for windows machines 
 Dependencies:
   DotNet Version 4.5.2
